@@ -1,0 +1,33 @@
+.progress-label {
+    float: left;
+    margin-right: 1em;
+    width: 5em;
+}
+
+.main-navbar-cv {
+    background-color: blue;
+}
+
+nav {
+    margin-bottom: 2em;
+}
+
+.white-back h5, .white-back p {
+    background-color: black;
+}
+
+#who-i-am{
+    background-color: rgb(213, 219, 231);
+}
+
+#work-experience{
+    background-color: rgb(165, 165, 250);
+}
+
+#tec_skills {
+    background-color: rgb(213, 219, 231);
+}
+
+#main-projects{
+    background-color: rgb(165, 165, 250);
+}
